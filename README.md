@@ -1,4 +1,4 @@
-# Universal Audio/Video Downloader
+# Universal Media Downloader
 
 Welcome to the first release of the Universal Media Downloader!  
 This simple yet powerful application allows you to download videos and extract audio from thousands of websites directly to your desktop.
