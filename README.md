@@ -1,6 +1,6 @@
 # Universal Audio/Video Downloader
 
-Welcome to the first release of the Universal Audio/Video Downloader!  
+Welcome to the first release of the Universal Media Downloader!  
 This simple yet powerful application allows you to download videos and extract audio from thousands of websites directly to your desktop.
 
 ---
@@ -17,7 +17,7 @@ This simple yet powerful application allows you to download videos and extract a
 ## System Requirements & Installation
 
 - **Operating System:** Windows 10 / 11  
-- **Installation:** This is a standalone application. No installation is required. Simply run the `gui_downloader.exe` file.
+- **Installation:** This is a standalone application. No installation is required. Simply run the `Universal.Media.Downloaderexe` file.
 - **Dependencies:** The application comes bundled with FFmpeg to handle all video/audio merging and conversion automatically. No separate installations are needed.
 
 ---
